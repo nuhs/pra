@@ -8,7 +8,7 @@
   "farmbot_os_version_requirement": ">= 8.0.0",
   "farmware_tools_version_requirement": ">= 0.0.0",
   "url": "https://raw.github.com/nuhs/pra/master/manifest.json",
-  "zip": "https://raw.github.com/nuhs/pra/archive/master.zip",
+  "zip": "https://github.com/nuhs/pra/archive/master.zip",
   "executable": "python",
   "args": "pra-master/now.py"
 }
